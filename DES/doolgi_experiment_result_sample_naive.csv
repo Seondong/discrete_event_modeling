@@ -1,0 +1,5 @@
+maxLevel,upgradeRate,mergeInterval,beaverInterval,runtime,numExperiment,score
+10,0.1,30,200,10000,1,8094880.0
+10,0.1,29,200,10000,1,8030414.0
+10,0.12,30,200,10000,1,7689625.0
+10,0.12,29,200,10000,1,9315316.0
