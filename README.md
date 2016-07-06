@@ -1,7 +1,7 @@
 ### Discrete event modeling practice
-	* Programmed by using python Simpy package.
-	* IDE: I used PyCharm for easily play with Python. DES is a PyCharm project.
-	* Doolgi example is also included in DES project.
+* Programmed by using python Simpy package.
+* IDE: I used PyCharm for easily play with Python. DES is a PyCharm project.
+* Doolgi example is also included in DES project.
 
 ### Doolgi(Pigeon) example
 	[비둘기키우기](https://play.google.com/store/apps/details?id=com.Mouse_Duck.DoveGame&hl=ko) is an addictive game which is getting popular in the Android Market. Main objective of this game is collect 36 different types of pigeons. 
