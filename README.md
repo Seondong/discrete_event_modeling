@@ -58,3 +58,7 @@
 * Generate results with more intermediate results - according to each timestep, provide current doolgi status with feathers
 * Implement DJ Beaver time
 * Get feedback from my friends, Doolgi game users
+
+**Please write an article in 'issue' tab if you have somethings to discuss with me.**
+
+> If it cause any issues such as license, copyright, plagiarism, please let me know, by sending a short e-mail to me (sundong.kim@kaist.ac.kr)
