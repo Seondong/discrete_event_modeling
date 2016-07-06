@@ -44,7 +44,8 @@
 		* Parameter example: [10, 0.12, 30, 200, 4000, 3]
 		* Parameter expanation: maxLevel, doubleUpgradeRate, intervalMerge, intervalBeaver, runtime, numExp (from the left)
 	* Main: Experiment with 144(=4*6*6) different cases, each case is averaged over 30 different trials. You can easily change input parameters. Final result file is automatically saved as ./doolgi_experiment_result.csv 
-		```python
+		
+		```
 		maxLevel = [10, 11, 12, 13]
 		upgradeRate = [0.10, 0.12, 0.14, 0.16, 0.18, 0.20]
 		mergeInterval = [30, 29, 28, 27, 26, 25]
