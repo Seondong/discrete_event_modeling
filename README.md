@@ -32,7 +32,7 @@
 #### Code description
 * trial_doolgi.py
 	* class Doolgi: Definition of Doolgi object
-		* __init__: initialize Doolgi
+		* \_\_init\_\_: initialize Doolgi
 		* collect: define collecting behavior
 	* generateDoolgi_flowline: SimPy-based event flowline to generate Doolgi regularly.
 	* mergeDoolgi_flowline: SimPy-based event flowline to merge Doolgi regularly.
